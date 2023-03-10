@@ -1,0 +1,4 @@
+#Thu May 19 17:19:40 IST 2022
+base.0=C\:\\Users\\acer\\Desktop\\sem4\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex
